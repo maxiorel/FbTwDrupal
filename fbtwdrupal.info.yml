@@ -1,0 +1,7 @@
+name: FbTwDrupal
+type: module
+description: Displays latest posts from FB Page and Twitter account in the block
+core: 8.x
+dependencies:
+  - node
+package: Other
